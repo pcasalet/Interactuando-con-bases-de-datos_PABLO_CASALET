@@ -1,0 +1,16 @@
+VERSIÓN PHP
+para entrar se ingresa con correo electronico y contraseña
+
+|NOMBRE       |FECHA NACIMIENTO|CORREO	      |CONTRASEÑA
+
+|Usuario1	      |1993/07/16      |Usuario1@ipsum-systems.com  |123456
+
+|Usuario2 |1992/01/16      |Usuario2@ipsum-systems.com|123456
+
+|Usuario3|1990/01/16      |Usuario3@ipsum-systems.com|123456
+
+
+|CORREO	      	 |CONTRASEÑA
+
+|Usuario1@ipsum-systems.com|123456
+
